@@ -9,7 +9,7 @@ title: "나의 소중한 하루 9월 3일(금)"
 - [ ] [A] C언어 퀴즈 첫 번째, 두 번째
 - [x] [A] 미팅
 - [x] [A] RB tree 이론
-- [ ] [A] malloc/free 사용법
+- [x] [A] malloc/free 사용법
 
 #### 잠들기 전의 나에게
 
