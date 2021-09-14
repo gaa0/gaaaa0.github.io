@@ -5,10 +5,10 @@ title: "나의 소중한 하루 9월 13일(월)"
 
 ### 해야 할 일
 
-- [ ] [A] malloc next fit, best fit 구현
-- [ ] [A] 미팅
-- [ ] [A] 백준 15903 풀기
-- [ ] [B] malloc explicit list, seglist 구현
+- [x] [A] malloc next fit, best fit 구현
+- [x] [A] 미팅
+- [x] [A] 백준 15903 풀기
+- [x] [B] malloc explicit list 구현
 
 #### 새벽 12시 33분의 나에게
 
