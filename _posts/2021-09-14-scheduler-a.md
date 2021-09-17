@@ -8,7 +8,7 @@ title: "나의 소중한 하루 9월 13일(월)"
 - [x] [A] malloc seglist 구현
 - [x] [A] 미팅
 - [x] [A] 백준 13305 풀기
-- [ ] [B] malloc explicit 점수 올리기
+- [x] [B] malloc explicit 점수 올리기
 
 #### 새벽 12시 51분의 나에게
 
